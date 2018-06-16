@@ -1,5 +1,5 @@
-##Project Euler by Dário Santos
+## Project Euler by Dário Santos
 
-##Organization
+## Organization
 Each folder represents a problem, the number in the beggining is the number of that specific project
 
